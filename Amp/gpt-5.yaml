@@ -1,5 +1,5 @@
 ~debug:
-  lastInferenceUsage: *ref_0
+  lastInferenceUsage: null
   lastInferenceInput:
     model: gpt-5
     ~debugParamsUsed:
